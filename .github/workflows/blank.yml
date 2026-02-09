@@ -8,4 +8,4 @@ jobs:
         run: | 
         echo "welcom to github action project demo"
         echo "welcome to the Devops lab"
-        echo "You have been suscessfully deployment of web app"
+        
